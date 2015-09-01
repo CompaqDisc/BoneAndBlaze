@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.minecraft.world.gen.feature.WorldGenMinable"/>
+<fullyQualifiedTypeName name="net.minecraft.init.Blocks"/>
+<fullyQualifiedTypeName name="net.minecraft.block.state.pattern.BlockHelper"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+</qualifiedTypeNameHistroy>

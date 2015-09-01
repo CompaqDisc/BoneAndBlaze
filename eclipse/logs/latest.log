@@ -1,0 +1,38 @@
+[20:47:59] [main/INFO]: Logging in with username & password
+[20:48:02] [Client thread/INFO]: Setting user: Herobrine2Nether
+[20:48:03] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:48:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Bone'n'Blaze
+[20:48:06] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:48:06] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[20:48:06] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:48:06] [Thread-9/INFO]: OpenAL initialized.
+[20:48:07] [Sound Library Loader/INFO]: Sound engine started
+[20:48:08] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:48:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Bone'n'Blaze
+[20:48:08] [Client thread/INFO]: SoundSystem shutting down...
+[20:48:09] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:48:09] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:48:09] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[20:48:09] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:48:09] [Thread-11/INFO]: OpenAL initialized.
+[20:48:09] [Sound Library Loader/INFO]: Sound engine started
+[20:48:10] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:48:18] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[20:48:18] [Server thread/INFO]: Generating keypair
+[20:48:18] [Server thread/INFO]: Preparing start region for level 0
+[20:48:19] [Server thread/INFO]: Changing view distance to 8, from 10
+[20:48:19] [Server thread/INFO]: Herobrine2Nether[local:E:c11c6a5b] logged in with entity id 76 at (-286.25207888957925, 4.0, 109.62293529257077)
+[20:48:19] [Server thread/INFO]: Herobrine2Nether joined the game
+[20:50:09] [Server thread/INFO]: Saving and pausing game...
+[20:50:09] [Server thread/INFO]: Saving chunks for level 'Demo'/Overworld
+[20:50:09] [Server thread/INFO]: Saving chunks for level 'Demo'/Nether
+[20:50:09] [Server thread/INFO]: Saving chunks for level 'Demo'/The End
+[20:50:10] [Server thread/INFO]: Stopping server
+[20:50:10] [Server thread/INFO]: Saving players
+[20:50:10] [Server thread/INFO]: Saving worlds
+[20:50:10] [Server thread/INFO]: Saving chunks for level 'Demo'/Overworld
+[20:50:10] [Server thread/INFO]: Saving chunks for level 'Demo'/Nether
+[20:50:10] [Server thread/INFO]: Saving chunks for level 'Demo'/The End
+[20:50:11] [Client thread/INFO]: Stopping!
+[20:50:11] [Client thread/INFO]: SoundSystem shutting down...
+[20:50:11] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

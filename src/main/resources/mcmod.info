@@ -1,0 +1,16 @@
+[
+{
+  "modid": "boneandblaze",
+  "name": "Bone'n'Blaze",
+  "description": "Adds tools made with bone and blaze rods / powder.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Herobrine2Nether"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

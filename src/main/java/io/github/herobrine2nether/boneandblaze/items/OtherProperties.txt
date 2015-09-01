@@ -1,0 +1,8 @@
+@Override
+    public boolean onItemUse(ItemStack stack, EntityPlayer playerIn, World worldIn, BlockPos pos, EnumFacing side, float hitX, float hitY, float hitZ) {
+           
+         //worldIn.createExplosion(playerIn, pos.getX() + hitX, pos.getY() + hitY, pos.getZ() + hitZ, 1.0f, true);
+         //worldIn.addWeatherEffect(new EntityLightningBolt(worldIn, pos.getX() + hitX, pos.getY() + hitY, pos.getZ() + hitZ));
+            
+         return super.onItemUse(stack, playerIn, worldIn, pos, side, hitX, hitY, hitZ);
+    }

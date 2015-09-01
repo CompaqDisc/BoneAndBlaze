@@ -1,0 +1,6 @@
+{
+	"parent": "boneandblaze:block/blaze_ore_nc",
+	"textures": {
+		"all": "boneandblaze:blocks/blaze_ore"
+	}
+}

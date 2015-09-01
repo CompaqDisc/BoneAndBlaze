@@ -9,4 +9,4 @@ To modify:
 4. Extract the forge source zip to a workspace of your choice.
 5. In your terminal program run "./gradlew setupDecompWorkspace eclipse".
 6. Copy the src folder of the Bone'n'Blaze source into the forge source folder, it should merge with the existing folder and / or replace a file.
-7. Begin development as normal.
+7. Begin development as normal, Using the subdirectory "eclipse" as your workspace.
